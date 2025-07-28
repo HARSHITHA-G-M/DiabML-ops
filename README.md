@@ -1,10 +1,12 @@
 
-# 🚀 First MLOps Project: Diabetes Classification API 🧠💉
+# 🚀  MLOps Project: Diabetes Classification API and Deployment 🧠💉
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Production_Ready-326CE5?logo=kubernetes&logoColor=white)
+
 
 ---
 
